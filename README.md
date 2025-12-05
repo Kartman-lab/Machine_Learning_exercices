@@ -1,5 +1,3 @@
-# Machine Learning Exercices
-
 # Machine Learning Exercises
 
 Ce projet regroupe plusieurs exercices pratiques en Machine Learning visant à maîtriser les concepts fondamentaux tels que la régression linéaire, la régression logistique et le clustering. Chaque exercice est réalisé à partir de datasets réels et permet de mettre en pratique l’ensemble du workflow de Machine Learning : exploration des données, prétraitement, modélisation, évaluation et visualisation des résultats.
